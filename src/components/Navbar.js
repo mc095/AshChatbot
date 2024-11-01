@@ -86,7 +86,7 @@ function NavBar() {
 
               <Nav.Item>
               <Nav.Link
-                href="https://withered-night-6087.ploomberapp.io/login"
+                href="https://long-hat-9908.ploomberapp.io/login"
                 target="_blank"
                 rel="noreferrer"
               > <FaGhost style={{ marginBottom: "2px" }}/> Get Started
